@@ -17,4 +17,9 @@ public class Algorithm : MonoBehaviour {
         int sum = num2 + num1 + num3;
         return sum;
     }
+	
+	private void Sum( int num1, int num2)
+	{
+		Debug.Log(num + num2);
+	}
 }
