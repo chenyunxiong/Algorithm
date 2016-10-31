@@ -64,7 +64,13 @@ public class Algorithm : MonoBehaviour {
     }
 	 private int Sum( int num1, int num2, int num3)
     {
-        int sum = num2 + num1 + num1;
+        for( int i = 0; i < 5; i ++)
+		{
+			if( i < 5)
+			{
+				debug.log(i);
+			}
+		}
         return sum;
     }
 	 private int Sum( int num1, int num2, int num3)
