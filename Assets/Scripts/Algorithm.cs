@@ -25,6 +25,21 @@ public class Algorithm : MonoBehaviour {
     }
 	 private int Sum( int num1, int num2, int num3)
     {
+		sum = chenyunxiong;
+		sum += chenyunxiong * 2;sum = chenyunxiong;
+		sum += chenyunxiong * 2;
+		sum = chenyunxiong;
+		sum += chenyunxiong * 2;
+		sum = chenyunxiong;
+		int chen;
+		int yun;
+		int xiong;
+		int chen;
+		int yun;
+		int xiong;
+		sum += chenyunxiong * 2;
+		sum = chenyunxiong;
+		sum += chenyunxiong * 2;
         int sum = num2 + num1;
 		int chen;
 		int yun;
