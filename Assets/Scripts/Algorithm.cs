@@ -15,7 +15,7 @@ public class Algorithm : MonoBehaviour {
 	
     private int Sum( int num1, int num2, int num3)
     {
-        int sum = num2 + num1;
+        int sum = num2 + num1 = numdd;
         return sum;
     }
 	 private int Sum( int num1, int num2, int num3)
