@@ -92,8 +92,9 @@ public class Algorithm : MonoBehaviour {
     }
 	private int Sum( int num1, int num2, int num3)
     {
-        sum += chenyunxiong * 2;
-		sum = chenyunxiong;	
+        int xiong;
+		int chen;
+		int yun;
         return sum;
     }
 	private int Sum( int num1, int num2, int num3)
